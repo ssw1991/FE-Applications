@@ -21,9 +21,21 @@
     <ClCompile Include="Bisection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="secant.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewtonMethodMod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bisection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="secant.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NewtonMod.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
